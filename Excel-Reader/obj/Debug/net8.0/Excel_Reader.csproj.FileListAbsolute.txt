@@ -1,0 +1,6 @@
+J:\Coding\Excel Reader\Excel Reader\obj\Debug\net8.0\Excel_Reader.csproj.AssemblyReference.cache
+J:\Coding\Excel Reader\Excel Reader\obj\Debug\net8.0\Excel_Reader.csproj.ResolveComReference.cache
+J:\Coding\Excel Reader\Excel Reader\obj\Debug\net8.0\Excel_Reader.GeneratedMSBuildEditorConfig.editorconfig
+J:\Coding\Excel Reader\Excel Reader\obj\Debug\net8.0\Excel_Reader.AssemblyInfoInputs.cache
+J:\Coding\Excel Reader\Excel Reader\obj\Debug\net8.0\Excel_Reader.AssemblyInfo.cs
+J:\Coding\Excel Reader\Excel Reader\obj\Debug\net8.0\Excel_Reader.csproj.CoreCompileInputs.cache
