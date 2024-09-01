@@ -1,10 +1,5 @@
-﻿using ClosedXML.Excel;
-using DocumentFormat.OpenXml.ExtendedProperties;
-using DocumentFormat.OpenXml.Office2010.Excel;
-using DocumentFormat.OpenXml.Office2013.Drawing.ChartStyle;
-using Excel_Reader;
-using System.Windows.Forms;
-using static System.ComponentModel.Design.ObjectSelectorEditor;
+﻿using Excel_Reader;
+using ClosedXML;
 namespace ConsoleApp1
 {
     internal class Program
@@ -16,17 +11,17 @@ namespace ConsoleApp1
             string filePath = "";
             List<Entry> entries = new List<Entry>();
 
+            
+
             //Selecting A File
             while (filePath == "")
             {
-                using (OpenFileDialog Ofd = new OpenFileDialog { Filter = "Excel Files (*.xlsx;*.xls)|*.xlsx;*.xls|All Files (*.*)|*.*", Title = "Select A File" })
-                {
-                    if (Ofd.ShowDialog() == DialogResult.OK) filePath = Ofd.FileName;
-                }
+                using OpenFileDialog Ofd = new OpenFileDialog { Filter = "Excel Files (*.xlsx;*.xls)|*.xlsx;*.xls|All Files (*.*)|*.*", Title = "Select A File" };
+                if (Ofd.ShowDialog() == DialogResult.OK) filePath = Ofd.FileName;
             }
 
             //Getting Info From Excel File
-            using (var workbook = new XLWorkbook(filePath)) 
+            using (var workbook = new ClosedXML.Excel.XLWorkbook(filePath)) 
             {
                 var worksheet = workbook.Worksheet(1); 
                 var range = worksheet.RangeUsed(); 

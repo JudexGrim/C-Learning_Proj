@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\Coding\\C-Learning_Proj\\Excel-Reader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047A9EAE-0613-45F3-82C5-ECB02291DA6E}|Excel_Reader.csproj|j:\\coding\\c-learning_proj\\excel-reader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A9EAE-0613-45F3-82C5-ECB02291DA6E}|Excel_Reader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A9EAE-0613-45F3-82C5-ECB02291DA6E}|Excel_Reader.csproj|j:\\coding\\c-learning_proj\\excel-reader\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A9EAE-0613-45F3-82C5-ECB02291DA6E}|Excel_Reader.csproj|solutionrelative:entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\Coding\\C-Learning_Proj\\Excel-Reader\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "J:\\Coding\\C-Learning_Proj\\Excel-Reader\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:44:35.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "J:\\Coding\\C-Learning_Proj\\Excel-Reader\\Entry.cs",
+              "RelativeDocumentMoniker": "Entry.cs",
+              "ToolTip": "J:\\Coding\\C-Learning_Proj\\Excel-Reader\\Entry.cs",
+              "RelativeToolTip": "Entry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:34:00.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LlsTz4rk93vAGJm1ws5w2bKfaKZBxfd8urMITcxaieRmKZZAjJfVgFu93sBTu2A3TLtryGMJqz4xJFWhAe3W2A==",
+  "dgSpecHash": "D+l00O+rQnI=",
   "success": true,
-  "projectFilePath": "J:\\Coding\\Learning_Proj\\Learning_Proj.csproj",
+  "projectFilePath": "J:\\Coding\\C-Learning_Proj\\VisStudio-SLN\\Learning_Proj.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Omar Al-Jumaili\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
-    "C:\\Users\\Omar Al-Jumaili\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
-    "C:\\Users\\Omar Al-Jumaili\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+    "C:\\Users\\Omar Al-Jumaili\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.8\\microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "C:\\Users\\Omar Al-Jumaili\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\Omar Al-Jumaili\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.8\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512"
   ],
   "logs": []
 }

@@ -5,6 +5,7 @@ using System.Xml.Linq;
 
 namespace Learning_Proj
 {
+    using Learning_Proj.PersonModel.EmolyeeModel;
     using System.Linq;
     using System.Reflection.Metadata;
 
@@ -27,6 +28,11 @@ namespace Learning_Proj
             DIExample.Dep1 = Dep1;
             DIExample.Dep2 = Dep2;
             DIExample.SetterExample();
+            var bruh = "Retard";
+
+            if (bruh == Categories.Retard.ToString()) {
+
+
 
         }
     }

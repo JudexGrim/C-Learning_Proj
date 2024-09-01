@@ -7884,11 +7884,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Coding\\Excel Reader\\Excel Reader\\Excel_Reader.csproj",
+      "projectUniqueName": "J:\\Coding\\C-Learning_Proj\\Excel-Reader\\Excel_Reader.csproj",
       "projectName": "Excel_Reader",
-      "projectPath": "J:\\Coding\\Excel Reader\\Excel Reader\\Excel_Reader.csproj",
+      "projectPath": "J:\\Coding\\C-Learning_Proj\\Excel-Reader\\Excel_Reader.csproj",
       "packagesPath": "C:\\Users\\Omar Al-Jumaili\\.nuget\\packages\\",
-      "outputPath": "J:\\Coding\\Excel Reader\\Excel Reader\\obj\\",
+      "outputPath": "J:\\Coding\\C-Learning_Proj\\Excel-Reader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7903,6 +7903,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7962,7 +7963,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
